@@ -1,2 +1,1 @@
-# milkqualityprediction
-MILK QUALITY PREDICTION USING BACKPROPAGATION ALGORITHM
+# Milk Quality Prediction Using Backpropagation Algorith
